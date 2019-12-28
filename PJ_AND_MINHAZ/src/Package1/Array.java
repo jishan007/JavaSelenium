@@ -130,7 +130,7 @@ public class Array {
 			
 			}
 			
-			System.out.print("]");
+			System.out.print("]"); 
 			if (p < numberThree.length-1){
 				System.out.print(" , ");
 			}
